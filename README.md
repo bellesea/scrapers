@@ -13,3 +13,4 @@ Scrapers for collecting content on different social media platforms! Please ensu
 - Run `pytest -s --uc scraper.py`
 - After youtube page loads, log in manually. After 60 seconds, page would automatically run your queries.
 - You can find the scraped html pages inside `results`.
+- If this doesn't work, run use_api.py to use PyTube API instead of scraping
