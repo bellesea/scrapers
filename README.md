@@ -2,6 +2,7 @@ Scrapers for collecting content on different social media platforms! Please ensu
 
 # Running IG
 - Ensure that you have quit all chrome on your computer
+- Update your computer's username (eg. when i open my terminal i see belle@Belles-Laptop-3 and my username is belle)
 - Update the length of scroll
 - run ig.py to get posts from searches
 - run igHomePage.py to get posts from your homepage
